@@ -1,1 +1,2 @@
-hello world script
+#!/bin/bash
+Hello world script

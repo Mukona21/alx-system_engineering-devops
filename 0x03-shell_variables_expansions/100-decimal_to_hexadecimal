@@ -1,2 +1,2 @@
-#!/bib/bash
-printf '%x\n' $DECIMAL
+#!/bin/bash
+printf "%x\n" $DECIMAL
